@@ -1,0 +1,15 @@
+{
+    "light_leaking_thresh": 180,
+    "fine_adapt_ksize": 49,
+    "internal_shrinkage": 45,
+    "adapt_const_dark": 9.0,
+    "adapt_const_bright": -6.0,
+    "min_defect_area": 6,
+    "min_defect_rect_width": 3,
+    "min_defect_rect_height": 3,
+    
+    "uniformity_internal_shrinkage": 190,
+    "uniformity_circle_radius": 33,
+    "uniformity_5pts_thresh": 0.8,
+    "uniformity_13pts_thresh": 0.6
+}
